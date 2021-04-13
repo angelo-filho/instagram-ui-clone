@@ -1,1 +1,1 @@
-# Clone de UI do instagram
+# Clone de UI do instagram com responsividade
